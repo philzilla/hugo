@@ -2,6 +2,8 @@ baseURL = "http://example.org/"
 languageCode = "fr_fr"
 title = "Hugo"
 theme = "ananke"
+publishDir = "docs"
+
 
 [[permalinks]]
   posts ="/:year/:month/:day/:title/"
