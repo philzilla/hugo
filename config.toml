@@ -1,7 +1,7 @@
 baseURL = "https://philzilla.github.io/hugo/"
 languageCode = "fr_fr"
 title = "Hugo"
-theme = "amp"
+theme = "ananke"
 publishDir = "docs"
 
 
