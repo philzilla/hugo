@@ -1,5 +1,6 @@
 ---
 pages:
+- posts/post-2.md
 - posts/toto.md
 hide_body: false
 fields:
